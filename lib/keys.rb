@@ -13,5 +13,5 @@ def get_the_keys(groceries)
   end
 
 def get_the_value(groceries)
-  
+  groceries.values.flatten
 end
