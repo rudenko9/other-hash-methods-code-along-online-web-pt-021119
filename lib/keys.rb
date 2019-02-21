@@ -16,4 +16,4 @@ def get_the_value(groceries)
     groceries.values.flatten
 end
  
- def 
+ 
