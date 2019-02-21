@@ -10,7 +10,8 @@ require 'pry'
 
 def get_the_keys(groceries)
   groceries.keys
-  groceries.values
+  
 end
 
 def get_the_value(gro)
+  
